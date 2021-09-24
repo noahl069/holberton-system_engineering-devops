@@ -1,2 +1,2 @@
 #!/bin/bash
-$PWD/$0-current_working_directory
+$PWD/$0-current_working_directory.txt
