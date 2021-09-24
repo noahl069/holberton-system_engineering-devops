@@ -1,0 +1,4 @@
+#!/bin/bash
+get_abs_0-current_working_directory() {
+# $1 : relative 0-current_working_directory
+echo "$(cd "$(0x00-shell_basics "$1")" && pwd)/$(basename "$1")" 
