@@ -1,3 +1,2 @@
 #!/bin/bash
-$ ./home/noah/holberton-system_engineering-devops/0x00-shell_basics
-$
+$ realpath 0-current_working_directory
