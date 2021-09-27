@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lRa | grep ^d |wc -l
+ls -lRa 0x02-shell_redirections/ | wc -l
