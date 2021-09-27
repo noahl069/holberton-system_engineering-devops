@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir my_dir temp chmod 751 temp
+mkdir -m 751 -p /home/noah/holberton-system_engineering-devops/0x01-shell_permissions/my_dir
