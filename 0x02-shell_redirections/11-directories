@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lRa 0x02-shell_redirections/
+find 0x02-shell_redirections -type f | wc -l
