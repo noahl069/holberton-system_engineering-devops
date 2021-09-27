@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod 777 /home/noah/holberton-system_engineering-devops/0x01-shell_permissions
